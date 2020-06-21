@@ -16,3 +16,4 @@ print(fizz_buzz(7))
 # n / 3 = fizz
 # n / 5 = buzz
 # n / both = fizzbuzz
+# neither = print the input
